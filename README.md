@@ -33,12 +33,13 @@ Acesse a aba server.js, localizado na parte inferior esquerda da tela.
 Substitua o código padrão pelo código do servidor fornecido.
 
 ### Instalação das dependências:
-• No terminal do Glitch, localizado na parte inferior da tela, execute o comando:
-npm install express
-• O servidor será iniciado automaticamente.
-Configuração no ESP32:
-• Copie a URL do projeto no Glitch.
-Substitua essa URL no código do ESP32 para que os dados sejam enviados corretamente.
+- No terminal do Glitch, localizado na parte inferior da tela, execute o comando:
+- npm install express
+- O servidor será iniciado automaticamente.
+
+### Configuração no ESP32:
+- Copie a URL do projeto no Glitch.
+- Substitua essa URL no código do ESP32 para que os dados sejam enviados corretamente.
 
 ### Visualização da localização:
 • Acesse o comando Preview e clique em Open Preview Pane ou Preview in a new window. Localizado na parte inferior da tela, (Ícone Lupa), para visualizar o mapa.
